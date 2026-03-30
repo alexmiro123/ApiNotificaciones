@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ApiNotificaciones.Controllers.NotificacionRabbitController",
+    "Method": "SendNotificationSignalR",
+    "RelativePath": "NotificacionRabbit/SendNotificationSignalR",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ApiNotificaciones.Resources.Dto.Request.NotificacionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
