@@ -1,6 +1,38 @@
 [
   {
     "ContainingType": "ApiNotificaciones.Controllers.NotificacionRabbitController",
+    "Method": "GetListAprobacionHorasExtra",
+    "RelativePath": "NotificacionRabbit/GetListNotificacionesNoLeidas/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiNotificaciones.Controllers.NotificacionRabbitController",
+    "Method": "MarcarComoLeida",
+    "RelativePath": "NotificacionRabbit/MarcarComoLeida",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ApiNotificaciones.Resources.Dto.Request.MarcarLeidasRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiNotificaciones.Controllers.NotificacionRabbitController",
     "Method": "SendNotificationSignalR",
     "RelativePath": "NotificacionRabbit/SendNotificationSignalR",
     "HttpMethod": "POST",

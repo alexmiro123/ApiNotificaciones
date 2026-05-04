@@ -39,6 +39,41 @@ public class NotificacionRabbitController : ControllerBase
 
     }
 
+    [AllowAnonymous]
+    [HttpPost("MarcarComoLeida")]
+    public async Task<IActionResult> MarcarComoLeida([FromBody] MarcarLeidasRequestDto dto)
+    {
+        if (!ModelState.IsValid || dto == null || dto.Ids == null || !dto.Ids.Any())
+        {
+            return BadRequest(new
+            {
+                success = false,
+                message = "Debe enviar una lista válida de IDs"
+            });
+        }
+
+        var response = await _notificacionRabbitService.MarcarComoLeida(dto.Ids);
+
+        response.Status = Response.StatusCode;
+
+        if (response.Success)
+            return Ok(response);
+
+        return BadRequest(response);
+    }
+
+    [AllowAnonymous]
+    [HttpGet("GetListNotificacionesNoLeidas/{username}")]
+    public async Task<IActionResult> GetListAprobacionHorasExtra(string username)
+    {
+        var response = await _notificacionRabbitService.ListarNotificacionesNoLeidas(username);
+        if (response.Success)
+        {
+            response.Status = Response.StatusCode;
+            return Ok(response);
+        }
+        return BadRequest(response);
+    }
 
 }
 

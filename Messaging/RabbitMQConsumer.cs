@@ -48,7 +48,7 @@ public class RabbitMQConsumer : BackgroundService
             using var scope = _scopeFactory.CreateScope();
             var service = scope.ServiceProvider.GetRequiredService<INotificacionRabbitService>();
 
-            await service.EnviarNotificacion(new NotificacionRequestDto
+            /*await service.EnviarNotificacion(new NotificacionRequestDto
             {
                 Titulo = evento.Titulo,
                 Mensaje = evento.Mensaje,
@@ -56,7 +56,7 @@ public class RabbitMQConsumer : BackgroundService
                 Rol = evento.Rol
             });
 
-            await Task.CompletedTask;
+            await Task.CompletedTask;*/
         };
 
         await _channel.BasicConsumeAsync(

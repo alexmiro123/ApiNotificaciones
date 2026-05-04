@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\hubs\\notificacionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:hubs\\notificacionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\resources\\dto\\response\\notificacionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:resources\\dto\\response\\notificacionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\interfaces\\inotificacionrabbitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:interfaces\\inotificacionrabbitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\resources\\dto\\request\\notificacionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:resources\\dto\\request\\notificacionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\controllers\\notificacionrabbitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:controllers\\notificacionrabbitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\services\\notificacionrabbitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:services\\notificacionrabbitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\models\\notificacionrabbitmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:models\\notificacionrabbitmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\controllers\\notificacionrabbitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:controllers\\notificacionrabbitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\utils\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:utils\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\messaging\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:messaging\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\resources\\dto\\request\\notificacionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:resources\\dto\\request\\notificacionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\hubs\\notificacionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:hubs\\notificacionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|c:\\desarrollo\\christian\\apinotificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558095CD-1ECB-47CB-9DDE-80658BB7C01C}|ApiNotificaciones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -92,8 +80,64 @@
         },
         {
           "DockedHeight": 31,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificacionResponseDto.cs",
+              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Resources\\Dto\\Response\\NotificacionResponseDto.cs",
+              "RelativeDocumentMoniker": "Resources\\Dto\\Response\\NotificacionResponseDto.cs",
+              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Resources\\Dto\\Response\\NotificacionResponseDto.cs",
+              "RelativeToolTip": "Resources\\Dto\\Response\\NotificacionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:56:02.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificacionRabbitController.cs",
+              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Controllers\\NotificacionRabbitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificacionRabbitController.cs",
+              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Controllers\\NotificacionRabbitController.cs",
+              "RelativeToolTip": "Controllers\\NotificacionRabbitController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:17:47.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Messaging\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "Messaging\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Messaging\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "Messaging\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:59:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificacionRequestDto.cs",
+              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Resources\\Dto\\Request\\NotificacionRequestDto.cs",
+              "RelativeDocumentMoniker": "Resources\\Dto\\Request\\NotificacionRequestDto.cs",
+              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Resources\\Dto\\Request\\NotificacionRequestDto.cs",
+              "RelativeToolTip": "Resources\\Dto\\Request\\NotificacionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:25:17.522Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -102,74 +146,9 @@
               "RelativeDocumentMoniker": "Services\\NotificacionRabbitService.cs",
               "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Services\\NotificacionRabbitService.cs",
               "RelativeToolTip": "Services\\NotificacionRabbitService.cs",
-              "ViewState": "AgIAABcAAAAAZmZmZuYmwBkAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswFkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T21:52:09.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NotificacionRequestDto.cs",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Resources\\Dto\\Request\\NotificacionRequestDto.cs",
-              "RelativeDocumentMoniker": "Resources\\Dto\\Request\\NotificacionRequestDto.cs",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Resources\\Dto\\Request\\NotificacionRequestDto.cs",
-              "RelativeToolTip": "Resources\\Dto\\Request\\NotificacionRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T21:49:56.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T21:13:27.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NotificacionRabbitModel.cs",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Models\\NotificacionRabbitModel.cs",
-              "RelativeDocumentMoniker": "Models\\NotificacionRabbitModel.cs",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Models\\NotificacionRabbitModel.cs",
-              "RelativeToolTip": "Models\\NotificacionRabbitModel.cs",
-              "ViewState": "AgIAAAUAAAAQAAAAAEApwAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T23:28:37.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADMAAACAzczMzIwjwEUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T21:23:23.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NotificacionHub.cs",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Hubs\\NotificacionHub.cs",
-              "RelativeDocumentMoniker": "Hubs\\NotificacionHub.cs",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Hubs\\NotificacionHub.cs",
-              "RelativeToolTip": "Hubs\\NotificacionHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T21:28:30.676Z",
+              "WhenOpened": "2026-05-03T16:17:35.225Z",
               "EditorCaption": ""
             },
             {
@@ -180,61 +159,35 @@
               "RelativeDocumentMoniker": "Interfaces\\INotificacionRabbitService.cs",
               "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Interfaces\\INotificacionRabbitService.cs",
               "RelativeToolTip": "Interfaces\\INotificacionRabbitService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T21:46:32.156Z",
+              "WhenOpened": "2026-05-03T16:17:21.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "NotificacionRabbitController.cs",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Controllers\\NotificacionRabbitController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NotificacionRabbitController.cs",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Controllers\\NotificacionRabbitController.cs",
-              "RelativeToolTip": "Controllers\\NotificacionRabbitController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T22:37:36.596Z",
+              "WhenOpened": "2026-03-29T21:23:23.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Utils\\ServiceResponse.cs",
-              "RelativeDocumentMoniker": "Utils\\ServiceResponse.cs",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Utils\\ServiceResponse.cs",
-              "RelativeToolTip": "Utils\\ServiceResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "NotificacionHub.cs",
+              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Hubs\\NotificacionHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\NotificacionHub.cs",
+              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Hubs\\NotificacionHub.cs",
+              "RelativeToolTip": "Hubs\\NotificacionHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T22:47:33.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RabbitMQConsumer.cs",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Messaging\\RabbitMQConsumer.cs",
-              "RelativeDocumentMoniker": "Messaging\\RabbitMQConsumer.cs",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\Messaging\\RabbitMQConsumer.cs",
-              "RelativeToolTip": "Messaging\\RabbitMQConsumer.cs",
-              "ViewState": "AgIAAAwAAAAAmpmZmVkgwB0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T21:36:39.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\DESARROLLO\\CHRISTIAN\\ApiNotificaciones\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-29T22:19:36.293Z",
+              "WhenOpened": "2026-03-29T21:28:30.676Z",
               "EditorCaption": ""
             }
           ]

@@ -48,7 +48,8 @@ builder.Services.AddCors(options =>
                 .WithOrigins(
                     "http://localhost:4200", // Angular DEV
                     "https://10.10.10.26:4442",
-                    "https://wserp.piggis.com:7041",
+                    "https://192.168.1.144:4442",
+                    "https://wserp.piggis.com:7040",
                     "https://wserp.piggis.com:4442"
                 )
                 .AllowAnyHeader()
@@ -69,6 +70,9 @@ app.UseRouting();
 app.UseCors("AllowAngular");
 app.MapControllers();
 
-app.MapHub<NotificacionHub>("/notificacionHub");
+app.MapHub<NotificacionHub>("/notificacionHub"); 
+
+//app.MapHub<NotificacionHub>("/notificacionHubConexion");
+
 
 app.Run();

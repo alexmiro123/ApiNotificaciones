@@ -134,3 +134,4 @@ C:\DESARROLLO\CHRISTIAN\ApiNotificaciones\obj\Debug\net9.0\refint\ApiNotificacio
 C:\DESARROLLO\CHRISTIAN\ApiNotificaciones\obj\Debug\net9.0\ApiNotificaciones.pdb
 C:\DESARROLLO\CHRISTIAN\ApiNotificaciones\obj\Debug\net9.0\ApiNotificaciones.genruntimeconfig.cache
 C:\DESARROLLO\CHRISTIAN\ApiNotificaciones\obj\Debug\net9.0\ref\ApiNotificaciones.dll
+C:\DESARROLLO\CHRISTIAN\ApiNotificaciones\obj\Debug\net9.0\ApiNotificaciones.sourcelink.json
